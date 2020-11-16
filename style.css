@@ -65,14 +65,14 @@
 
 .td1{
     background-color:#AAAAAA;
-    width: 25%;
+    width: 45%;
     font-size:18;
     padding: 0.5em 0.5em 0.5em 0.5em;
     border-radius: 3px;
 }
 .td2{
     background-color:rgba(255, 255, 255, 0.9);
-    width: 75%;
+    width: 55%;
     font-size:18;
     text-align: left;
     border-radius: 3px;
