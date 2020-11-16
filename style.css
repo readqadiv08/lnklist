@@ -92,12 +92,10 @@
 }
 button {
   border: solid 3px rgba(128, 127, 127, 0.400);
-  font-size: 16;
   border-radius: 15px;
   background-color: rgba(255, 255, 255, 0.800);
   padding: 16px;
 }
 button:hover{
     color:blue;
-    font-size:18px;
 }
