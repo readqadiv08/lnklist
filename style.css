@@ -65,14 +65,14 @@
 
 .td1{
     background-color:#AAAAAA;
-    width: 40%;
+    width: 25%;
     font-size:18;
     padding: 0.5em 0.5em 0.5em 0.5em;
     border-radius: 3px;
 }
 .td2{
     background-color:rgba(255, 255, 255, 0.9);
-    width: 60%;
+    width: 75%;
     font-size:18;
     text-align: left;
     border-radius: 3px;
@@ -81,7 +81,7 @@
 }
 .Contents{
     background-color:#BBBBBB;
-    height:700px;
+    height:750px;
     overflow-x:hidden;
     overflow-y:scroll;
     padding:5px;
